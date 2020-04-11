@@ -32,19 +32,19 @@
 
 ### Xmind版
 
-![](http://ww1.sinaimg.cn/large/006F2AR3gy1gdpyc888y0j317e186jxf.jpg)
+![](http://tva1.sinaimg.cn/large/006F2AR3gy1gdpyc888y0j317e186jxf.jpg)
 
 
 
 ### Excel版
 
-![](http://ww1.sinaimg.cn/large/006F2AR3gy1gdpyee6c0pj31xi0iodo7.jpg)
+![](http://tva1.sinaimg.cn/large/006F2AR3gy1gdpyee6c0pj31xi0iodo7.jpg)
 
 
 
 ### 线上回归CheckList
 
-![](http://ww1.sinaimg.cn/large/006F2AR3gy1gdpygggk3gj30zi09uq60.jpg)
+![](http://tva1.sinaimg.cn/large/006F2AR3gy1gdpygggk3gj30zi09uq60.jpg)
 
 
 
